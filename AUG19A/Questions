@@ -1,0 +1,20 @@
+
+Q1) Can you help the triangles?
+
+The Fresher’s party is going on but to enter the party you have to solve a problem. Given three integers a, b and c, which represent the 3 sides of the triangle, you need to prove whether it is possible to construct a triangle using these three sides.
+
+
+Q2) Can you Slide?
+Chirag is a very lazy student and doesn’t like to go to College for more than ‘k’ days. Also he wants to go to College continuously for ‘k’ days. He is weak in Maths and would like your help to maximize the number of lectures he can attend by going to college for at most ‘k’ consecutive days. 
+You are provided with two numbers ‘n’ and ‘k’ which represent the number of days of College and the number of days Chirag can attend college continuously. Then you are provided with ‘n’ numbers where each number represents the number of lectures in a day. Please help him maximize the number of lectures he can attend. Note that Chirag will not attend college for more than ‘k’ days.
+
+
+Q3) Can you join it?
+	Given 2 strings A and B, and a character X. You have to insert string B into string A in such a way that after you have performed the join the operation, the resulting string contains a substring that contains only one character, X of length len. Your aim is to maximise len.
+You are allowed to split the string A at index you want and insert string B. It is not necessary to split the string A. Please note that you are not allowed to split the string B.
+
+	
+
+Q4) Can you solve it?
+	Akash, Shikhar and Kalpaj are at a pub and drinking a magical potion. All three of them are at queue and there are no other people in the queue. The first person in the queue ‘Akash’ drinks the first magical potion and doubles! Then both of them go and stand at the back of the queue. Then Shikhar, who is next in the queue, drinks the second magical potion and goes and stands at the end of the queue behind Akash. Now, the queue looks like this: Kalpaj, Akash, Akash, Shikhar, Shikhar. 
+The same process continues and after Kalpaj drinks the potion, the people behind him will continue the process. Find the person who will drink the the nth Magical Potion.
