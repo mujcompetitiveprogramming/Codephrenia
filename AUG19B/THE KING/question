@@ -1,0 +1,10 @@
+THE KING  
+
+You goal is to solve the chess king puzzle. 
+You are provided with a n x m Chess Board and your goal is to place as many kings as possible in the chess board subject to the following two conditions.
+• There is at most one king in any cell of the board.
+• Each king has at least one possible move into a free cell on the board.
+Recall that a chess king moves one square in any direction (horizontally, vertically, or diagonally). 
+
+1 <= T <=50 <br>
+1 <= n,m <= 10<sup>4</sup>
